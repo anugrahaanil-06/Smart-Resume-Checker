@@ -29,13 +29,13 @@ This project demonstrates practical implementation of text preprocessing, featur
 
 The system follows a structured NLP pipeline:
 
-# 1. Text Extraction
+1. Text Extraction
 
 * PyPDF2 for PDF parsing
 
 * python-docx for DOCX processing
 
-# 2. Text Preprocessing
+2. Text Preprocessing
 
 * Lowercasing
 
@@ -43,7 +43,7 @@ The system follows a structured NLP pipeline:
 
 * Stopword removal using NLTK
 
-# 3. Similarity Computation
+3. Similarity Computation
 
 * TF-IDF Vectorization (Scikit-learn)
 
@@ -53,7 +53,7 @@ The system follows a structured NLP pipeline:
 
 * Keyword overlap analysis
 
-# 4. Final Score Calculation
+4. Final Score Calculation
 
 * Weighted average of all similarity metrics
 
