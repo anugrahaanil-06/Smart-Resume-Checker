@@ -127,4 +127,5 @@ http://localhost:8501
 Anugraha AL
 
 Entry-Level AI/ML Engineer | Data Analyst | Python Developer  
-B.Sc. Physics Graduate focused on NLP, Machine Learning, and Intelligent Systems.
+B.Sc. Physics Graduate specializing in NLP and Machine Learning applications.
+
