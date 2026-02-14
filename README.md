@@ -77,7 +77,7 @@ The system follows a structured NLP pipeline:
 
 # Project Structure
 smart-resume-checker/
-│
+
 
 ├── app.py              # Main Streamlit application
 
@@ -125,5 +125,6 @@ http://localhost:8501
 # Author
 
 Anugraha AL
+
 Entry-Level AI/ML Engineer | Data Analyst | Python Developer  
 B.Sc. Physics Graduate focused on NLP, Machine Learning, and Intelligent Systems.
