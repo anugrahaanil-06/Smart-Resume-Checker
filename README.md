@@ -79,7 +79,9 @@ The system follows a structured NLP pipeline:
 smart-resume-checker/
 │
 ├── app.py              # Main Streamlit application
+
 ├── requirements.txt    # Project dependencies
+
 └── README.md           # Documentation
 
 # Installation & Setup
