@@ -125,7 +125,6 @@ http://localhost:8501
 # Author
 
 Anugraha AL
-
 Entry-Level AI/ML Engineer | Data Analyst | Python Developer  
 B.Sc. Physics Graduate specializing in NLP and Machine Learning applications.
 
